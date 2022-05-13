@@ -16,6 +16,7 @@ author: stephen eshelman
 navbar-links:
   About Me: "aboutme"
   My Work: "mywork"
+  My Workspace: "myworkspace"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
