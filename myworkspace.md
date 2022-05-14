@@ -6,11 +6,7 @@ subtitle: Where all the magic happens!
 
 summary here
 
-### DESK 1
+### MY DESK
 
-text
-
-[a link](https://github.com/objectthink) more text
-
-text **bold** text
+I started working from home with the pandemic and haven't looked back.  While I can effectively work in any room of the house I am drawn to the office for design and coding sessions, video calls, and the occasional MMORPG!
 
