@@ -8,6 +8,6 @@ stephen eshelman is in the house!
 
 ### For the love of code!
 
-Software engineer with a knack for creating the simple, approachable, abstractions that can be used by developers to be successful. 
+Software engineer with a knack for creating simple, approachable, abstractions that can be used by developers to be successful. 
 
 
