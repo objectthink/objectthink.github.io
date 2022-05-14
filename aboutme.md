@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: It's my job to make you successful
 ---
 
 stephen eshelman is in the house!
 
 ### For the love of code!
 
-text
+Software engineer with a knack for creating the simple, approachable, abstractions that can be used by developers to be successful. 
 
-[a link](https://github.com/objectthink) more text
-
-text **bold** text
 
