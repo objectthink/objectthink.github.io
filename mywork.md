@@ -6,6 +6,10 @@ subtitle: What I've been up to
 
 Connecting devices and clients using simple messaging and protocols.
 
+### [SIGMA DEFENSE/SOLUTE](https://sigmadefense.com)
+
+In my latest role I am ramping up on **rust** api development and lending a hand on a fullstack, react and python project meant to make the customers workflow easier and more far reaching!
+
 ### [HOLOGIC](https://www.hologic.com/breast-health)
 
 At Hologic I was part of the **Hologic Selenia™ Dimensions™** team designed implemented the UI application framework that encapsulated user workflow navigation and patient exam setup.  For this product designed and implemented gantry abstraction used by the framework that entailed gantry team collaboration on communication protocol over CAN.
